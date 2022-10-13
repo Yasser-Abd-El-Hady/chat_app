@@ -3,7 +3,7 @@ import 'package:chat_app/utils/screen.dart';
 import 'package:chat_app/views/components/custom_text.dart';
 import 'package:chat_app/views/components/snackbar.dart';
 import 'package:chat_app/views/components/text_form_field.dart';
-import 'package:chat_app/views/screens/auth_screens/chat_screen.dart';
+import 'package:chat_app/views/screens/chat_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
